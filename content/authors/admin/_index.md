@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mitun Kanti Paul
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mitun Kanti 
+last_name: Paul
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Biomedical Engineering(Signal and Image Processing)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Oulu
+    url: https://www.oulu.fi/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Signal and Image Processing
+  - Computer Vision
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MEng in Biomedical Engineering
+      institution: University of Oulu, Finland
+      year: 20023 - Ongoing
+    - course: BSc in Electrical & Electronics Engineering
+      institution: Shahjalal University of Science & Technology, Bangladesh 
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +121,12 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+🌟 About Me: 
+
+I am pursuing Master's  in Biomedical Engineering, specializing in Signal and Image Processing. My primary focus is on advancing the field of Biomedical Engineering through deep learning and computer vision. I aspire to contribute to cutting-edge research, developing innovative solutions that enhance medical diagnostics, image analysis, and patient care. My ultimate goal is to bridge the gap between technology and healthcare to create a brighter and healthier future for all. 
+
+
+📚 Background: 
+
+My journey into the world of technology began during my undergraduate years in Electrical & Electronics Engineering, where I honed my skills in hardware design, programming, and robotics. Today, I stand at the intersection of engineering, data science, and artificial intelligence, driven by the goal of making a meaningful impact on healthcare through advanced technologies. This interdisciplinary background enables me to approach biomedical engineering challenges from a holistic perspective, incorporating both engineering principles and cutting-edge data-driven solutions. 
 {style="text-align: justify;"}
